@@ -4,9 +4,9 @@ on:
   push:
     branches: [ main ]
 
-env:
-  DOCKERHUB_USERNAME: your_username
-  DOCKERHUB_PASSWORD: your_password  
+# env:
+#   DOCKERHUB_USERNAME: your_username
+#   DOCKERHUB_PASSWORD: your_password  
 
 jobs:
   
